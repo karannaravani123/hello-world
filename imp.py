@@ -10,3 +10,4 @@ try:
 finally:
     f.close()
     print 'Cleaning up...closed the file'
+	print 'kano'
